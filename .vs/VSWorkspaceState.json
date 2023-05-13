@@ -1,0 +1,14 @@
+{
+  "ExpandedNodes": [
+    "",
+    "\\SistemaVendas",
+    "\\SistemaVendas\\Controllers",
+    "\\SistemaVendas\\Enums",
+    "\\SistemaVendas\\Migrations",
+    "\\SistemaVendas\\Models",
+    "\\SistemaVendas\\Repositories",
+    "\\SistemaVendas\\Repositories\\Interfaces"
+  ],
+  "SelectedNode": "\\SistemaVendas\\Models\\VendaModel.cs",
+  "PreviewInSolutionExplorer": false
+}
